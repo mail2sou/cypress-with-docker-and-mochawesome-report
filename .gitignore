@@ -1,0 +1,9 @@
+# node modules folder if any
+node_modules
+
+# cypress recordings during a test run are temporary files
+/cypress/videos/
+# /cypress/screenshots/
+
+# report folders are ignored as these will be generated on each run
+/cypress/reports/

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "gender": "male",
+        "birthYear": "19BBY",
+        "eyeColor": "blue",
+        "skinColor": "fair"
+    },
+    {
+        "name": "invalidData",
+        "result": "Not found."
+    }
+]
